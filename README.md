@@ -6,17 +6,17 @@ The aim is to uncover key insights about EV growth, distribution, and adoption p
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Problem Statement](#problem-statement)
-- [Key Metrics](#key-metrics)
-- [Visual Insights](#visual-insights)
-- [Tools and Technologies](#Tools-and-Technologies)
-- [Data Cleaning and Analysis](#Data-Cleaning-and-Analysis)
-- [Dashboard](#dashboard)
-- [Visual Highlights](#Visual-Highlights)
-- [Next Steps / Recommendations](#Next-Steps-/-Recommendations)
-- [Installation](#installation)
+- [Project Overview](#-project-overview)
+- [Dataset](#-dataset)
+- [Problem Statement](#-problem-statement)
+- [Key Metrics](#-key-metrics)
+- [Visual Insights](#-visual-insights)
+- [Tools and Technologies](#-Tools-and-Technologies)
+- [Data Cleaning and Analysis](#-Data-Cleaning-and-Analysis)
+- [Dashboard](#-dashboard)
+- [Visual Highlights](#-Visual-Highlights)
+- [Next Steps / Recommendations](#-Next-Steps-/-Recommendations)
+- [Installation](#-installation)
 - [Conclusion](#conclusion)
 - [Contact](#contact)
 
