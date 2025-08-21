@@ -7,8 +7,8 @@ The aim is to uncover key insights about EV growth, distribution, and adoption p
 ## Table of Contents
 
 - [Project Overview](#-project-overview)
-- [Dataset](#-dataset)
 - [Problem Statement](#-problem-statement)
+- [Dataset](#-dataset)
 - [Key Metrics](#-key-metrics)
 - [Visual Insights](#-visual-insights)
 - [Tools and Technologies](#-Tools-and-Technologies)
@@ -29,16 +29,6 @@ The project provides an end-to-end EV Data Analysis pipeline:
 
 This analysis helps policymakers, manufacturers, and researchers understand EV adoption patterns and plan sustainable transportation strategies.
 
-## 📂 Dataset
-
-- Source: [Kaggle – Electric Vehicle Population Dataset](https://www.kaggle.com/datasets/utkarshx27/electric-vehicle-population-data)
-- Attributes:
-  - Vehicle make and model
-  - EV type (BEV / PHEV)
-  - Electric range
-  - State and county distribution
-  - CAFV eligibility
-    
 ## 🚩 Problem Statement
 
 Electric Vehicles are becoming a crucial part of the sustainable transport ecosystem.
@@ -50,6 +40,16 @@ The main challenges addressed in this project:
 - Analyzing geographical distribution of EVs
 - Studying EV range trends and preferences
 - Providing visual insights for stakeholders
+
+## 📂 Dataset
+
+- Source: [Kaggle – Electric Vehicle Population Dataset](https://www.kaggle.com/datasets/utkarshx27/electric-vehicle-population-data)
+- Attributes:
+  - Vehicle make and model
+  - EV type (BEV / PHEV)
+  - Electric range
+  - State and county distribution
+  - CAFV eligibility
 
 ## 🔑 Key Metrics
 
